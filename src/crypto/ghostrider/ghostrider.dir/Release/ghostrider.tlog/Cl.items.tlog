@@ -1,0 +1,17 @@
+D:\XMRig\src\crypto\ghostrider\sph_blake.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_blake.obj
+D:\XMRig\src\crypto\ghostrider\sph_bmw.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_bmw.obj
+D:\XMRig\src\crypto\ghostrider\sph_cubehash.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_cubehash.obj
+D:\XMRig\src\crypto\ghostrider\sph_echo.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_echo.obj
+D:\XMRig\src\crypto\ghostrider\sph_fugue.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_fugue.obj
+D:\XMRig\src\crypto\ghostrider\sph_groestl.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_groestl.obj
+D:\XMRig\src\crypto\ghostrider\sph_hamsi.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_hamsi.obj
+D:\XMRig\src\crypto\ghostrider\sph_jh.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_jh.obj
+D:\XMRig\src\crypto\ghostrider\sph_keccak.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_keccak.obj
+D:\XMRig\src\crypto\ghostrider\sph_luffa.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_luffa.obj
+D:\XMRig\src\crypto\ghostrider\sph_shabal.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_shabal.obj
+D:\XMRig\src\crypto\ghostrider\sph_shavite.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_shavite.obj
+D:\XMRig\src\crypto\ghostrider\sph_simd.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_simd.obj
+D:\XMRig\src\crypto\ghostrider\sph_sha2.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_sha2.obj
+D:\XMRig\src\crypto\ghostrider\sph_skein.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_skein.obj
+D:\XMRig\src\crypto\ghostrider\sph_whirlpool.c;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\sph_whirlpool.obj
+D:\XMRig\src\crypto\ghostrider\ghostrider.cpp;D:\XMRig\src\crypto\ghostrider\ghostrider.dir\Release\ghostrider.obj

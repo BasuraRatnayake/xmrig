@@ -1,0 +1,17 @@
+D:/XMRig/CMakeFiles/xmrig-asm.dir
+D:/XMRig/CMakeFiles/xmrig.dir
+D:/XMRig/CMakeFiles/ALL_BUILD.dir
+D:/XMRig/CMakeFiles/ZERO_CHECK.dir
+D:/XMRig/src/3rdparty/hwloc/CMakeFiles/hwloc.dir
+D:/XMRig/src/3rdparty/hwloc/CMakeFiles/ALL_BUILD.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2-sse2.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2-ssse3.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2-xop.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2-avx2.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2-avx512f.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/argon2.dir
+D:/XMRig/src/3rdparty/argon2/CMakeFiles/ALL_BUILD.dir
+D:/XMRig/src/3rdparty/libethash/CMakeFiles/ethash.dir
+D:/XMRig/src/3rdparty/libethash/CMakeFiles/ALL_BUILD.dir
+D:/XMRig/src/crypto/ghostrider/CMakeFiles/ghostrider.dir
+D:/XMRig/src/crypto/ghostrider/CMakeFiles/ALL_BUILD.dir
